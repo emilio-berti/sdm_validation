@@ -11,19 +11,19 @@ comadre <- cdb_flag(comadre) %>% #flag dataset
          check_ergodic, #get only ergodic matrices (needed for asymptotic lambda)
          !is.na(Lon), !is.na(Lat)) #remove rows without GPS coordinates
 
-# 116 populations
+# 120 populations
 comadre %>% 
   filter(Class == "Mammalia") %>% 
-  mutate(Lon = round(Lon, 1), #approximate GPS location
-         Lat = round(Lat), 1) %>% #think carefully about the threshold
+  mutate(Lon = round(Lon, 2), #approximate GPS location
+         Lat = round(Lat, 2)) %>% #think carefully about the threshold
   group_by(SpeciesAccepted, Lon, Lat) %>% #group by populations
   tally()
 
-# 37 populations with more >= 3 data points at different year
+# 38 populations with more >= 3 data points at different year
 comadre %>% 
   filter(Class == "Mammalia") %>% 
   mutate(Lon = round(Lon, 1), #approximate GPS location
-         Lat = round(Lat), 1) %>% #think carefully about the threshold
+         Lat = round(Lat, 1)) %>% #think carefully about the threshold
   group_by(SpeciesAccepted, Lon, Lat) %>% #group by populations
   tally() %>% 
   filter(n >= 3)
@@ -38,8 +38,8 @@ comadre %>%
 # 36 species with more >= 3 data points at different year
 comadre %>% 
   filter(Class == "Mammalia") %>% 
-  mutate(Lon = round(Lon, 1), #approximate GPS location
-         Lat = round(Lat), 1) %>% #think carefully about the threshold
+  mutate(Lon = round(Lon, 2), #approximate GPS location
+         Lat = round(Lat, 2)) %>% #think carefully about the threshold
   group_by(SpeciesAccepted, Lon, Lat) %>% #group by populations
   tally() %>% 
   filter(n >= 3) %>% 

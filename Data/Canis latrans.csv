@@ -1,0 +1,21 @@
+species,lon,lat,year,record,coordinate_uncertainty,institution,database
+Canis latrans,-97.46272,26.024742,NA,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.99261,33.967968,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.97913,33.968613,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.738235,33.83026,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.73621,33.832108,2003,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.73454,33.83348,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.730774,33.820873,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.72547,33.833927,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.723526,33.832546,2002,observation,NA,https://bison.usgs.gov,Bison
+Canis latrans,-117.7244,33.767586,2002,observation,NA,https://bison.usgs.gov,Bison
+"Canis latrans Say, 1823",-118.219447,34.110648,2020,HUMAN_OBSERVATION,25,iNaturalist,GBIF
+"Canis latrans Say, 1823",-87.99357,42.278185,2020,HUMAN_OBSERVATION,131,iNaturalist,GBIF
+"Canis latrans Say, 1823",-80.244325,43.697312,2020,HUMAN_OBSERVATION,16,iNaturalist,GBIF
+"Canis latrans Say, 1823",-111.731395,33.360942,2020,HUMAN_OBSERVATION,164,iNaturalist,GBIF
+"Canis latrans Say, 1823",-122.054985,36.997349,2020,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Canis latrans Say, 1823",-122.626442,37.891608,2020,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Canis latrans Say, 1823",-73.232185,44.490039,2020,HUMAN_OBSERVATION,287,iNaturalist,GBIF
+"Canis latrans Say, 1823",-73.232185,44.490039,2020,HUMAN_OBSERVATION,287,iNaturalist,GBIF
+"Canis latrans Say, 1823",-73.232185,44.490039,2020,HUMAN_OBSERVATION,287,iNaturalist,GBIF
+"Canis latrans Say, 1823",-79.562986,44.057983,2020,HUMAN_OBSERVATION,5490,iNaturalist,GBIF

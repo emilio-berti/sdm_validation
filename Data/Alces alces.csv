@@ -1,0 +1,25 @@
+species,lon,lat,year,record,coordinate_uncertainty,institution,database
+Alces alces,-141.98265,60.654167,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-163.82137,67.56176,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-113.651215,45.64699,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-112.75655,46.404152,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-103.45967,46.952206,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-89.71761,47.991226,NA,observation,NA,https://bison.usgs.gov,Bison
+Alces alces,-151.36191,63.169353,NA,observation,NA,https://bison.usgs.gov,Bison
+"Alces alces (Linnaeus, 1758)",19.003075,52.673386,2020,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Alces alces (Linnaeus, 1758)",11.917717,59.118879,2020,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Alces alces (Linnaeus, 1758)",-72.280685,42.531585,2020,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Alces alces (Linnaeus, 1758)",10.90579,60.700806,2020,HUMAN_OBSERVATION,585,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",30.08289,69.546344,2020,HUMAN_OBSERVATION,1000,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",14.029394,66.433381,2020,HUMAN_OBSERVATION,200,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",12.558511,66.154378,2020,HUMAN_OBSERVATION,947,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",10.841058,59.604579,2020,HUMAN_OBSERVATION,20,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",14.029394,66.433381,2020,HUMAN_OBSERVATION,200,nzf,GBIF
+"Alces alces (Linnaeus, 1758)",10.166279,59.773464,2020,HUMAN_OBSERVATION,25,nzf,GBIF
+Alces alces,-53.2838,47.2643,2001,Image,16,NA,ALA
+Alces alces,-78.4088,45.5774,2010,Image,16,NA,ALA
+Alces alces,-78.8,45.5,2017,HumanObservation,NA,NA,ALA
+Alces alces,-78.4088,45.5774,2010,Image,16,NA,ALA
+Alces alces,19.9,67.8,2019,HumanObservation,NA,NA,ALA
+Alces alces,18,64,NA,PreservedSpecimen,NA,in22,ALA
+Alces alces,25.733,58.666,NA,PreservedSpecimen,NA,in4,ALA
