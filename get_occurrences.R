@@ -28,3 +28,16 @@ for (x in species) {
     bind_rows() %>% 
     unique()
 }
+
+warnings()
+
+occ_data %>% 
+  bind_rows() %>% 
+  write_csv("occurrence_records.csv")
+
+occ_data %>% 
+  bind_rows() %>% 
+  group_by(Species) %>% 
+  tally() %>% 
+  arrange(n) %>% 
+  knitr::kable()
