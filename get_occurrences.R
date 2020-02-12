@@ -1,7 +1,7 @@
 library(tidyverse)
 library(spocc)
 
-source("get_species_SDMs.R") #two variables: comadre (the DB) and species (char vector)
+source("get_species.R") #two variables: comadre (the DB) and species (char vector)
 
 occ_data <- list()
 
