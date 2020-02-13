@@ -1,0 +1,780 @@
+species,lon,lat,year,record,coordinate_uncertainty,institution,database
+"Chlorocebus aethiops (Linnaeus, 1758)",-119.594444,34.43861,1928,specimen,NA,http://www.sbnature.org/,Bison
+"Chlorocebus aethiops (Linnaeus, 1758)",40.012078,8.842273,2019,HUMAN_OBSERVATION,13,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.012369,8.842453,2019,HUMAN_OBSERVATION,36,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.584637,4.777452,2019,HUMAN_OBSERVATION,5,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.906939,9.839212,2019,HUMAN_OBSERVATION,244,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.410648,-28.377861,2019,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.010772,8.843649,2019,HUMAN_OBSERVATION,15,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.981843,8.533194,2019,HUMAN_OBSERVATION,11,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.151014,10.852758,2019,HUMAN_OBSERVATION,2705396,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.349449,11.700574,2018,HUMAN_OBSERVATION,754,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.396372,11.605822999999999,2018,HUMAN_OBSERVATION,593,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.463084,7.040156,2018,HUMAN_OBSERVATION,2758,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.443543,6.749603,2018,HUMAN_OBSERVATION,100,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.784119,-13.966123,2018,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",34.050888,-12.911019,2018,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",34.050446,-12.910685,2018,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.290573,-14.844231,2018,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.637461,7.082261,2018,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.624196,7.10231,2018,HUMAN_OBSERVATION,588,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.421885,7.031297,2018,HUMAN_OBSERVATION,12620,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.618896,7.084168,2018,HUMAN_OBSERVATION,1043,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.593498,5.939119,2017,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.733917,10.316271,2017,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.592249,11.486835,2017,HUMAN_OBSERVATION,452,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.010214,8.844629,2017,HUMAN_OBSERVATION,483,iNaturalist,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-1.7592,30.7979,2017,HUMAN_OBSERVATION,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.59907,11.3987,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.56596,11.46391,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.53001,11.44873,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.59374,11.39594,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.52059,11.45211,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.58546,11.41084,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.57141,11.44388,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.50394,11.4519,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.50936,15.601796,2016,HUMAN_OBSERVATION,255,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.469788,7.05741,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.50562,11.20374,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.57336,11.43789,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.51264,11.45286,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.58797,11.42477,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.57402,11.43183,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.04763,12.030899,2016,HUMAN_OBSERVATION,1760,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.50486,11.20187,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.48732,11.29936,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.56688,11.47942,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.34814,11.3437,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.595863,-4.279088,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.021056,9.110608,2016,HUMAN_OBSERVATION,50,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.18649,11.25426,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.60045,11.39776,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.59174,11.40735,2016,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.130141,9.824046,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.130111,9.824076,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.005253,9.633064,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.964669,9.897223,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.964679,9.897213,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.005283,9.633034,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.135923,9.825605,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.107006,9.848476,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.084867,9.883718,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.61763,7.085902,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.394184,8.40218,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.011433,8.842881,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.69602,9.674407,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.64827,9.454187,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.027105,9.634707,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.085724,9.893288,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.133336,9.824035,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.027126,9.63475,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.084513,9.887376,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.033868,9.566899,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.026898,9.634771,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.00143,9.778053,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.394184,8.40218,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.119785,9.826721,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.08513,9.888236,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.86367,11.278755,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.137901,9.824523,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.122584,9.824257,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.867761,11.06173,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.26203,10.86599,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.24656,11.07953,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.383257,12.443288,2015,HUMAN_OBSERVATION,NA,NA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.246973,12.417102,2015,HUMAN_OBSERVATION,NA,NA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.52825,10.98,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.424774,11.02484,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.209836,11.128414,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.74669,11.38535,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.898083,11.655583,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.51295,11.764783,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.710483,11.6018,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.51081,11.72435,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.37268,11.8156,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.742778,11.77875,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.45489,12.03515,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.392467,11.8544,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.839222,11.601167,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.600417,11.844583,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.31131,11.66284,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.52592,11.94554,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.48964,12.19915,2015,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.202942,-1.573594,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.348267,-0.753915,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.987289,-3.225529,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.997009,9.891105,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.984547,9.890793,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.089937,9.415267,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.06685,11.5311,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.06645,11.5363,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.104664,9.726445,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.537872,-24.155525,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.760378,9.185278,2015,HUMAN_OBSERVATION,1131,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.618896,7.084168,2015,HUMAN_OBSERVATION,1043,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.626385,7.099797,2015,HUMAN_OBSERVATION,977,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.60373,11.3952,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.36271,11.23718,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.46543,11.46389,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.33849,11.27509,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.36812,11.23701,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.28958,11.26981,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.64724,11.39669,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.50572,11.20375,2015,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.36276,11.23713,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.36813,11.237,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.027174,9.634747,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.28961,11.26978,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.33855,11.27503,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.165649,9.825717,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.123009,9.82416,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.987382,9.891852,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.122052,9.824505,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.026771,9.634618,2015,HUMAN_OBSERVATION,NA,REV Développement,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5649,11.4555,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5874,11.4198,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.6169,11.3966,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.640613,7.077951,2014,HUMAN_OBSERVATION,63,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.1683,11.2439,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.1199,11.0211,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5057,11.2037,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.6143,11.395,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5645,11.4593,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-16.723766,13.443302,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-16.785564,13.360644,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-16.728401,13.431532,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-16.649094,13.393126,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5848,11.2964,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.10271,-22.68246,2014,PRESERVED_SPECIMEN,NA,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.1666,6.9166,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.5333,6.4833,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.85,6.2833,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.85,8.7166,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.1166,10.9333,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.5833,12,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.55,9.25,2014,UNKNOWN,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.574425,-6.35837,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.195961,0.422197,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.659996,-0.612133,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.6028,11.3955,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.5053,11.2036,2014,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",34.600029,8.230783,2014,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.285164,11.903894,2013,HUMAN_OBSERVATION,6141,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.380638,11.623401,2013,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.370111,11.293039,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.39173,11.024231,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.257929,11.341661,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.257929,11.341661,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.199128,11.040857,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.331262,11.258834,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.199128,11.040857,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.370111,11.293039,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.899295,11.266886,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.902729,11.266468,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.52256,11.112371,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.295161,11.262191,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.559859,11.882862,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.231266,11.091443,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.295161,11.262191,2013,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.74662,11.38542,2013,HUMAN_OBSERVATION,NA,DGEFC,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-16.728401,13.431532,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",22.206802,-19.377228,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.833611,7.903889,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.6166,9.7666,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.7248000000000001,9.0072,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.6573,10.2197,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.1265,10.7378,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.8904,10.8044,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.2841,10.5221,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.7356,9.6431,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.2085,10.5423,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.9088,8.1715,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",0.8458,10.5098,2013,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.614607,7.112448,2013,HUMAN_OBSERVATION,977,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.46631,7.023123,2012,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",39.258329,8.526349,2012,HUMAN_OBSERVATION,8593,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.618896,7.084168,2012,HUMAN_OBSERVATION,1043,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40,9.083333,2012,HUMAN_OBSERVATION,210,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.4369,9.3405,2012,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.3,8.05,2012,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.7246,8.9699,2012,HUMAN_OBSERVATION,NA,Laboratory of forest Sciences (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.495504,7.050374,2012,HUMAN_OBSERVATION,6906,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.633422,7.078565,2012,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.458672,7.04856,2011,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.292512,30.312071,2011,HUMAN_OBSERVATION,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.825737,7.682221,2011,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.26379,-17.814398,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.852074000000002,-17.925087,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.670189,-18.209133,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",20.761328,-18.505737,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.862919,-17.9237,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.695122,-3.315333,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.66,7.6,2011,UNKNOWN,NA,"Centre d�Etudes, de Recherches et de Formation foresti�res",GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.25,9.66,2011,UNKNOWN,NA,"Centre d�Etudes, de Recherches et de Formation foresti�res",GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.925232,-3.931947,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.044769,-4.077973,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.466906,7.049589,2011,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.006994,8.846319,2011,HUMAN_OBSERVATION,NA,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.760471,-25.085604,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.853062,-17.896584,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.836733,-17.922495,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.670189,-18.209133,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.681618,-18.126242,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.853062,-17.896584,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",23.418726,-33.558701,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.072,1.8772,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0365,1.8506,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0383,1.5621,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9965,2.421,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2414,2.2608,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0253,1.7611,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0365,1.8506,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0253,1.7611,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0365,1.6079,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0383,1.5621,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9905,2.419,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9905,2.419,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0455,1.5276,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.072,1.8772,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2414,2.2608,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0455,1.5276,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2153,2.2881,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9744,2.4421,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.042,1.5471,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9744,2.4421,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2512,2.2633,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2533,2.2606,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.042,1.5471,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2512,2.2633,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9904,2.419,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2533,2.2606,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2153,2.2881,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.0365,1.6079,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9965,2.421,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9904,2.419,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2712,2.2527,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2712,2.2527,2010,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.641944,7.083366,2009,HUMAN_OBSERVATION,37,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.464336,7.040859,2009,HUMAN_OBSERVATION,1054,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40,9.083333,2008,HUMAN_OBSERVATION,2899,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",38.618896,7.084168,2008,HUMAN_OBSERVATION,4286,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.62,-13.37,2008,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",3.191864,12.076329,2008,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.603764,11.243179,2008,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.486816,-13.03667,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",28.223877,-15.02637,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.25174,-11.926477,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.486816,-13.03667,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.486816,-13.03667,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.486816,-13.03667,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",28.413048,-15.489084,2008,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.383333,11.6,2008,HUMAN_OBSERVATION,12583,iNaturalist,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",34.820568,-2.436428,2007,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",34.747009,-2.619326,2007,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.52207,-25.09963,2006,OBSERVATION,10000,DABUH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.557318,6.487478,2006,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.608948,0.57128,2006,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.3731,6.384884,2006,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.549487,9.266933,2004,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.166667,6.916667,2004,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.166667,6.916667,2004,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.33,10.75,2004,UNKNOWN,NA,"Centre d�Etudes, de Recherches et de Formation foresti�res",GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.03212,8.756808,2004,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",27.410889,-15.903225,2004,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",27.410889,-15.903225,2004,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.00555,-33.56977,2004,PRESERVED_SPECIMEN,NA,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",1.758022,6.303553,2003,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.835632,-28.326141,2003,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.333333,6.45,2003,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.3731,6.384884,2002,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.3731,6.384884,2002,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-8.937,8.525,2002,HUMAN_OBSERVATION,NA,Conservation International,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-8.906,8.531,2002,HUMAN_OBSERVATION,NA,Conservation International,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.86361,11.27881,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.62571,11.03612,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.86775,11.06171,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.26197,10.86605,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.12172,11.02189,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.21653,11.07956,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.20983,11.12812,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",1.52817,10.98008,2001,HUMAN_OBSERVATION,NA,BID-AF2015-0030-SMA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.135051,-0.425707,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.053223,-0.372414,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.053223,-0.372414,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.158931,6.664319,2000,HUMAN_OBSERVATION,NA,Laboratoire des Sciences Forestières (LSF/UAC),GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,2000,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.121981,-0.355773,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.053223,-0.372414,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.121981,-0.355773,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.104646,-0.419013,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.135051,-0.425707,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,1999,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,1998,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,1998,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,1998,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.044461,-0.396866,1998,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1998,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",6.433333,4.983333,1997,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,1997,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.068596,-0.423507,1997,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1997,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.135051,-0.425707,1996,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.0353,0.8103,1995,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.2351,2.2632,1995,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.1541,2.2362,1995,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.9127,0.472,1994,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",27,-18,1994,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.8493,0.2565,1994,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.8121,1.6603,1994,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.6502,1.6513,1994,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.8391,3.64,1992,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.8391,3.649,1992,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.2452,3.667,1992,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.383333,0.435,1992,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.910965,-0.214233,1992,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.7181,1.9325,1991,HUMAN_OBSERVATION,NA,NBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.231979,-2.64059,1987,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",37.228546,-2.628243,1987,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.5,-8.483333,1986,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.5,-8.483333,1986,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.5,-8.483333,1986,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.93333,2.71667,1971,PRESERVED_SPECIMEN,19016,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.93333,2.71667,1971,PRESERVED_SPECIMEN,19016,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.38333,-1.1,1970,PRESERVED_SPECIMEN,1016,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.38333,-1.1,1970,PRESERVED_SPECIMEN,1016,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",12.5833,-16.6667,1970,PRESERVED_SPECIMEN,NA,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",23.416667,-19.837961,1969,PRESERVED_SPECIMEN,5000,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",23.41804,-19.427726,1969,PRESERVED_SPECIMEN,5000,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",25.15,-17.816667,1969,PRESERVED_SPECIMEN,8000,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.85,-18.366667,1969,PRESERVED_SPECIMEN,3036,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.85,-18.366667,1969,PRESERVED_SPECIMEN,3036,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.85,-18.366667,1969,PRESERVED_SPECIMEN,3036,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",22.031273,-25.219465,1969,PRESERVED_SPECIMEN,15000,DMNS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.85,-18.366667,1969,PRESERVED_SPECIMEN,3036,DMNS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",10.7667,6.4,1968,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",2.02,7.92,1968,PRESERVED_SPECIMEN,NA,USNM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.85,2.13333,1968,PRESERVED_SPECIMEN,428,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.85,2.13333,1968,PRESERVED_SPECIMEN,428,LACM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.1,1.9667,1968,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-15.77,16.55,1967,PRESERVED_SPECIMEN,NA,USNM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.5,-1.06667,1966,PRESERVED_SPECIMEN,3615,MSU,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.5,-1.06667,1966,PRESERVED_SPECIMEN,3615,MSU,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.6667,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.6667,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.6667,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.8333,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.6667,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.6667,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops zavattarii de Beaux, 1943",37.8333,6,1966,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.6,0.1667,1965,PRESERVED_SPECIMEN,NA,YPM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4667,-1.2167,1965,PRESERVED_SPECIMEN,NA,YPM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4667,-1.2167,1965,PRESERVED_SPECIMEN,NA,YPM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4667,-1.2167,1965,PRESERVED_SPECIMEN,NA,YPM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4667,-1.2167,1965,PRESERVED_SPECIMEN,NA,YPM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.75,-4.8333,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.5333,0.2667,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.8333,6.5,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.8333,6.5,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",23.7,12.9833,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.05,0.8333,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.05,0.8333,1964,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.1,-1.25,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.1667,-4.1667,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,-0.1667,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,-0.1667,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,-0.1667,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.5,-3.3667,1963,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",22.26667,-19.66667,1962,PRESERVED_SPECIMEN,7742,MSU,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.166667,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.166667,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.166667,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.166667,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.166667,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.133333,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.133333,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.299999,10.133333,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.533329,10.64242,1961,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37,11.3333,1961,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35,-0.8333,1961,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.45,6.433333,1961,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.352416,6.441022,1961,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.6,6.4666,1961,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.45,6.433333,1961,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.41667,12.21667,1960,PRESERVED_SPECIMEN,6793,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",21.41667,12.21667,1960,PRESERVED_SPECIMEN,6793,LACM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.6,-0.1667,1960,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.426803,-0.40192,1960,PRESERVED_SPECIMEN,136204,MCZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.733333,0.866667,1955,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.733333,0.866667,1955,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.0333,8.1667,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.0167,8.15,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.466667,1.233333,1955,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",30.466667,1.233333,1955,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",23.1833,-13.7333,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.9,-16.0333,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",23.2167,-13.8333,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.9,-16.0333,1955,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.5833,9.0167,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.95,-8.0833,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",0.3333,7.45,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.6,-6.9,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.4333,-6.25,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.7167,-5.05,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.7167,-5.05,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.7167,-5.05,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.4333,-6.25,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.3667,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.35,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.4333,-6.25,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-0.5167,8.55,1954,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39,-11,1953,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39,-11,1953,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.95,-8.0833,1953,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-11.65,9.8167,1953,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.333333,4.166667,1951,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.333333,4.166667,1951,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.9333,-8.0667,1951,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.3333,-0.15,1951,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.78333,-2.55,1951,PRESERVED_SPECIMEN,2016,CAS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",40.7,4.25,1951,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.4833,-7.8,1950,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.400002,4.316667,1950,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.9667,3.4,1950,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.416667,8.783333,1950,PRESERVED_SPECIMEN,3036,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.416667,8.783333,1950,PRESERVED_SPECIMEN,3036,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-11.65,9.8167,1950,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.255061,-14.474888,1949,PRESERVED_SPECIMEN,3957,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.256134,-14.474971,1949,PRESERVED_SPECIMEN,3758,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.256392,-14.476301,1949,PRESERVED_SPECIMEN,4013,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.3,-4.4333,1949,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4,-4.45,1949,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4,-4.45,1949,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4,-4.45,1949,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.0833,-4.3667,1949,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.558511,-4.311159,1948,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.55,-32.25,1948,PRESERVED_SPECIMEN,57303.91,MVZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.55,-32.25,1948,PRESERVED_SPECIMEN,57303.91,MVZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.55,-32.25,1948,PRESERVED_SPECIMEN,57303.91,MVZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.55,-32.25,1948,PRESERVED_SPECIMEN,57303.91,MVZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",24.55,-32.25,1948,PRESERVED_SPECIMEN,57303.91,MVZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.583332,4.766667,1948,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.91667,4.993,1948,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",28.22071,-13.13333,1948,PRESERVED_SPECIMEN,18220,MVZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-11.5,6.9333,1947,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-11.5,6.9333,1947,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-16.6667,13.5,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.0833,9.0833,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.0167,8.85,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.0833,9.0833,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.0833,9.0833,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-12.0833,9.0833,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.1667,8.4333,1946,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1945,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-16.6833,13.4667,1945,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.8833,-8.3833,1944,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.8833,-8.3833,1944,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,1944,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.100343,-5.074533,1939,PRESERVED_SPECIMEN,4800,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",29.7333,-0.6,1938,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-64.4106,-17.8444,1938,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-64.4106,-17.8444,1938,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-64.4106,-17.8444,1938,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-64.4106,-17.8444,1938,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.8333,-3.4167,1937,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-15.32335,12.0803,1937,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.3833,9.05,1935,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.8333,-5.1833,1935,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.8333,-5.1833,1935,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.708289,1.758834,1934,PRESERVED_SPECIMEN,2532,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.67085,0.989849,1934,PRESERVED_SPECIMEN,19537,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.6333,3.1,1934,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",10.0167,5.9,1933,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",10.0167,5.9,1933,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",9.3,5.7667,1933,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",10.15,5.9167,1933,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.7092,1.7625,1933,PRESERVED_SPECIMEN,8495,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.65,-7.8167,1932,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.8,-1.35,1932,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.6833,-14.7667,1932,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",9.3,5.7667,1932,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.95,-2.08333,1931,PRESERVED_SPECIMEN,108614,CAS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.9833,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.9833,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.9833,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.9833,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.9833,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.0667,-14.15,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.75,-14.5,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.75,-14.5,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.75,-14.5,1931,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,0.0833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,0.0833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,0.0833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.4833,-18.0667,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.6167,-18.1,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2833,-17.9833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2833,-17.9833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2833,-17.9833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2833,-17.9833,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.3167,0.7333,1929,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.75,-16.75,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.75,-16.75,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,0.0833,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.75,-16.75,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.75,-16.75,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-16.45,13.45,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",24.75,-16.75,1928,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-119.594444,34.438611,1928,PRESERVED_SPECIMEN,NA,SBMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35.83333,-3.58333,1927,PRESERVED_SPECIMEN,18097,CAS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.8667,-17.3167,1927,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.7667,-17.25,1927,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.8667,-17.5833,1927,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.8667,-17.5833,1927,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.8667,-17.5833,1927,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.9333,11.3,1926,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",22.4333,-5.5833,1925,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",22.4333,-5.5833,1925,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",22.4333,-5.5833,1925,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.4833,12.65,1924,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.5,14,1924,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",14.3333,-17.3667,1924,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3167,-6.3667,1923,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",10.5,7.5,1923,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.4833,-6.4833,1923,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.781847,-5.250647,1923,PRESERVED_SPECIMEN,1196,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.781847,-5.250647,1923,PRESERVED_SPECIMEN,1196,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",22.3167,-6.0167,1923,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2,-28.5667,1922,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.467505,-2.963582,1922,PRESERVED_SPECIMEN,63439,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",21.2,-28.5667,1922,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",12.3167,5.5333,1921,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.3333,-4.6667,1921,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.825,1.325,1920,PRESERVED_SPECIMEN,115000,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.583333,-1.25,1920,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",30.5,5.4167,1920,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,1919,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",28.65,-13,1919,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",28.65,-13,1919,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",28.65,-13,1919,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.6667,-6.8167,1918,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.6667,-6.8167,1917,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,-3,1917,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.6667,-6.8167,1917,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.666667,-6.816667,1917,PRESERVED_SPECIMEN,14820,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.666667,-6.816667,1917,PRESERVED_SPECIMEN,14820,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",2.3731,6.384884,1917,HUMAN_OBSERVATION,NA,LEA,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1915,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.120422,-2.016313,1915,PRESERVED_SPECIMEN,1192,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.416667,-1.533333,1915,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.864193,-0.333159,1915,PRESERVED_SPECIMEN,20699,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.864193,-0.333159,1915,PRESERVED_SPECIMEN,20699,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.626382,-0.239515,1915,PRESERVED_SPECIMEN,28188,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.5167,1.5833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.358905,11.966975,1913,PRESERVED_SPECIMEN,4729,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,11.15,1913,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1913,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.25,13.0833,1913,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1912,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.4,1.6,1912,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.5,-0.9167,1912,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.0833,0.25,1912,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,15.6167,1911,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-0.2167,5.55,1911,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.3333,11.1,1911,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",29.716694,3.733333,1911,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.5833,-3.3833,1910,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.8,0.5,1909,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,-18.6333,1909,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.11819,-2.014901,1909,PRESERVED_SPECIMEN,1414,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",15.0833,-12.7333,1908,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",40.5,7.6167,1908,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",41,6.95,1908,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,-18.6333,1907,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,-18.6333,1907,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,-18.6333,1907,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",34.1,-18.6333,1907,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",27.3333,3.5833,1906,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.0333,-12.5833,1905,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.15,-0.7167,1905,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.15,-0.7167,1905,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.15,-0.7167,1905,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.3,9.1167,1904,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38.3,9.1167,1904,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.3167,1.8167,1902,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.4833,0.0833,1901,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.8167,11.8,1901,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.0833,0.6333,1900,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.25,-15.0167,1900,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.8333,-14,1900,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-14.7667,13.5333,1899,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.2833,0.6333,1899,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.05,0.4833,1898,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",4.8167,9.1833,1898,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.15,-15.6833,1895,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.666667,-6.816667,1891,PRESERVED_SPECIMEN,14820,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.4167,-3.3,1884,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.4167,-3.3,1884,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.55,12.3667,1868,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.55,12.3667,1868,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-24,16,1860,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.01667,-29.85,1800,PRESERVED_SPECIMEN,4941,UWBM,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.11819,-2.014901,1700,PRESERVED_SPECIMEN,1414,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.11819,-2.014901,1700,PRESERVED_SPECIMEN,1414,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",38,1,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.85,2.13333,NA,PRESERVED_SPECIMEN,428,LACM,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",35,-2.4167,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",-5.0333,6.2167,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.416698,10.733,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",40.483299,10.9,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36,0.5,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",32.466702,-13.8167,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.9333,-14.4022,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.983299,-27.016701,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",36.250599,3.9411,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.0833,-26.75,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",31.0833,-26.75,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.7167,9.5333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.6333,13.5167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.6333,13.5167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-62.75,17.4167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3333,-3.0333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3333,-3.0333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.3333,14,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3167,-0.7167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",13.25,13.5333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",33.8333,-14,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-15.5,12.7333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-15.5,12.7333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-13.0667,8.55,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37,-6.8167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",22.4333,-5.5833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,1.1667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,1.1667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.1667,1.1667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2333,10.2833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3167,-0.1667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-62.75,17.4167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",6.7333,7.8,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-62.75,17.4167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-62.75,17.4167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",37.3333,-3.0333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",3.4667,6.45,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.8,3.9,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",32.8,3.9,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-0.2,5.7333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.5833,9.0167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-0.2,5.7333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.5833,9.0167,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.6667,-5.3667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.75,6.6667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",39.65,-5.3667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-1.8167,9.0833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",-2.0167,8.15,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",28.65,-13,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",35.5333,6.2,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.091374,-0.47657,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.044461,-0.396866,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.102139,-0.300719,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.053223,-0.372414,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.067174,-0.461359,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.071704,-0.329146,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",36.112226,-0.454957,NA,HUMAN_OBSERVATION,NA,KWS,GBIF
+"Chlorocebus aethiops (Linnaeus, 1758)",33.8,4.9,NA,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,NA,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.2,4.3,NA,PRESERVED_SPECIMEN,NA,AMNH,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",15.78625,-15.39062,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.81053,-1.32095,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.81053,-1.32095,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",31.81053,-1.32095,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",18,9,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",11.6,-0.8,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",18.47189,-34.35809,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",18.47189,-34.35809,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Cercopithecus aethiops (Linnaeus, 1758)",18,9,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF

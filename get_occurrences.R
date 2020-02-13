@@ -5,6 +5,7 @@ library(foreach)
 
 source("get_species.R") #two variables: comadre (the DB) and species (char vector)
 
+# ~ 1.30 hours
 T0 <- Sys.time()
 ncores <- detectCores() - 2
 registerDoParallel(ncores)
@@ -182,7 +183,8 @@ completed <- list.files('Data', pattern = 'csv', full.names = TRUE)
 res <- list()
 for (file in completed){
   res[[which(completed == file)]] <- read_csv(file, col_types = cols()) %>% 
-    mutate(species = gsub('[.]csv', '', str_split(file, '/', simplify = TRUE)[[2]]))
+    mutate(species = gsub('[.]csv', '', str_split(file, '/', simplify = TRUE)[[2]]),
+           coordinate_uncertainty = as.numeric(coordinate_uncertainty))
 }
 
 bind_rows(res) %>% 

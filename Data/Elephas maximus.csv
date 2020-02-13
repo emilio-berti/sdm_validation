@@ -1,0 +1,770 @@
+species,lon,lat,year,record,coordinate_uncertainty,institution,database
+"Elephas maximus Linnaeus, 1758",-122.50232,37.73284,1968,specimen,NA,http://www.calacademy.org,Bison
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1989,observation,NA,NA,Bison
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1995,observation,NA,NA,Bison
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1996,observation,NA,NA,Bison
+"Elephas maximus Linnaeus, 1758",-122.50232,37.73284,1995,specimen,NA,http://www.calacademy.org,Bison
+"Elephas maximus Linnaeus, 1758",-122.13681,37.75378,1968,specimen,NA,http://www.calacademy.org,Bison
+"Elephas maximus Linnaeus, 1758",-87.83617,41.833366,1975,specimen,NA,http://www.naturemuseum.org,Bison
+"Elephas maximus Linnaeus, 1758",-122.71604,45.509487,1984,observation,NA,http://www.birds.cornell.edu,Bison
+"Elephas maximus Linnaeus, 1758",-84.37381,42.603535,1964,specimen,NA,http://museum.msu.edu,Bison
+"Elephas maximus Linnaeus, 1758",-114.83789,32.816372,1957,specimen,NA,http://www.nhm.org/,Bison
+"Elephas maximus indicus Cuvier, 1798",98.6,18.8,2020,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.203791,12.069813,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.772659,8.820366,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.807977,7.981362,2019,HUMAN_OBSERVATION,31302,iNaturalist,GBIF
+Elephas maximus maximus,81.577164,6.485888,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.294525,26.608788,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",100.063115,9.669128,2019,HUMAN_OBSERVATION,31227,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.294525,26.608788,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.970602,10.475602,2019,HUMAN_OBSERVATION,31189,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.22395,11.972456,2019,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.033639,12.037848,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.092445,12.101138,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.006598,12.174437,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",91.014966,26.605391,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",92.860314,26.452708,2019,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",92.994238,26.565503,2019,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.373191,14.448685,2019,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.338527,14.584998,2019,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+Elephas maximus maximus,81.583835,6.392242,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",77.092838,9.483716,2019,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+Elephas maximus maximus,81.570234,6.358305,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.420473,6.244304,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.502206,6.285189,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.773186,7.915834,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.773186,7.915834,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.9263,7.704604,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",81.204636,6.45396,2019,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",101.291279,14.528351,2019,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.190383,12.108204,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.490062,12.884115,2019,HUMAN_OBSERVATION,66430,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.264289,11.932322,2019,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.738135,4.599801,2019,HUMAN_OBSERVATION,31403,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.077375,11.870079,2019,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.746184,12.046921,2019,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.29319,14.45638,2019,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+Elephas maximus maximus,81.528129,6.397407,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.284596,12.348701,2019,HUMAN_OBSERVATION,31092,iNaturalist,GBIF
+Elephas maximus maximus,80.62318,8.014155,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,81.473569,6.718224,2019,HUMAN_OBSERVATION,31344,iNaturalist,GBIF
+Elephas maximus maximus,80.808755,6.489328,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.877242,6.52621,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.915653,6.489358,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.818962,6.441428,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.842292,6.571851,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.307681,6.5256,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.934405,6.506822,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.550898,6.257319,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.370182,7.867739,2019,HUMAN_OBSERVATION,31302,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.333514,5.428601,2019,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",78.790039,29.499889,2019,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.961699,10.032055,2019,HUMAN_OBSERVATION,31208,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.553628,26.757947,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.524841,26.739884,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.586995,26.735485,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.495638,26.624887,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.545531,26.661264,2019,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+Elephas maximus maximus,80.9,6.4,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,81.5,6.4,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",81.3,6.5,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.3,5.4,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,80.9,6.5,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,80.9,6.5,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,80.9,6.5,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",81.5,6.6,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",81.4,6.4,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",80.9,6.4,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",80.8,8,2019,HUMAN_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,80.932371,8.084644,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.237225,5.522902,2019,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.61445,29.471001,2019,HUMAN_OBSERVATION,65342,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.341395,14.450582,2019,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+Elephas maximus maximus,81.331827,6.280753,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.379142,5.584956,2019,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.812918,10.444652,2019,HUMAN_OBSERVATION,31189,iNaturalist,GBIF
+Elephas maximus maximus,81.52442,6.363761,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.902216,6.492779,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",92.883996,26.878618,2019,HUMAN_OBSERVATION,29798,iNaturalist,GBIF
+Elephas maximus maximus,80.548388,8.15873,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.431065,8.079979,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.563077,8.164048,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.564957,8.159205,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.428619,8.07633,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.567181,8.183065,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,81.241874,6.156302,2019,HUMAN_OBSERVATION,31362,iNaturalist,GBIF
+Elephas maximus maximus,81.542944,6.258496,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.688714,8.143225,2019,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.77784,4.68561,2019,HUMAN_OBSERVATION,31398,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.500116,5.299664,2019,HUMAN_OBSERVATION,31384,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.404672,5.283323,2019,HUMAN_OBSERVATION,31384,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.027702,9.532121,2019,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",116.901524,4.663431,2019,HUMAN_OBSERVATION,31398,iNaturalist,GBIF
+Elephas maximus maximus,81.435395,6.336997,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.299675,5.572979,2019,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.957118,4.881929,2019,HUMAN_OBSERVATION,31394,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",81.286578,28.478366,2019,HUMAN_OBSERVATION,29607,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.338192,5.492033,2019,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.444693,12.365957,2019,HUMAN_OBSERVATION,31092,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.53692,12.262131,2019,HUMAN_OBSERVATION,31092,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.545481,12.378001,2019,HUMAN_OBSERVATION,31092,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.480341,12.205162,2019,HUMAN_OBSERVATION,31092,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.625322,10.119475,2019,HUMAN_OBSERVATION,31208,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.428173,8.817393,2019,HUMAN_OBSERVATION,31262,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.947136,6.478235,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.972379,6.552724,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.880495,6.444272,2019,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.218506,6.292504,2019,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.242377,11.988455,2019,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.337925,14.240236,2018,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",79.068457,29.593631,2018,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus sumatranus Temminck, 1847",105.669561,-4.881842,2018,HUMAN_OBSERVATION,31394,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.328179,14.442522,2018,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.72684,5.195778,2018,HUMAN_OBSERVATION,31389,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.643086,5.134273,2018,HUMAN_OBSERVATION,31389,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.567668,11.612244,2018,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",100.990556,6.038413,2018,HUMAN_OBSERVATION,31362,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.237184,11.95059,2018,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.717392,11.632944,2018,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.388263,11.916064,2018,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",102.584869,4.56596,2018,HUMAN_OBSERVATION,31403,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.020451,26.508605,2018,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.159667,26.579055,2018,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",75.640293,13.683955,2018,HUMAN_OBSERVATION,31007,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",75.648652,13.676006,2018,HUMAN_OBSERVATION,31007,iNaturalist,GBIF
+Elephas maximus maximus,80.149467,8.304509,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.572113,6.427213,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.204636,6.45396,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.855804,8.077758,2018,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,81.572113,6.427213,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.572113,6.427213,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.96267,10.506476,2018,HUMAN_OBSERVATION,31189,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.383244,5.435115,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.350764,5.53069,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.272027,5.45182,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.356705,5.522332,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.211628,5.58581,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.535396,11.471728,2018,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.259892,5.422318,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",94.684595,28.377629,2018,HUMAN_OBSERVATION,294594,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",81.490849,6.286041,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",90.934259,26.784897,2018,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.06578,8.439561,2018,HUMAN_OBSERVATION,38930,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.078564,12.134128,2018,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.284439,5.405261,2018,HUMAN_OBSERVATION,44184,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.21921,5.408996,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.821396,6.509207,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.953447,6.435959,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.865973,6.580714,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.260433,5.485446,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.390406,5.413155,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.315243,5.551271,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+Elephas maximus maximus,81.405348,6.243799,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.310029,14.410141,2018,HUMAN_OBSERVATION,45991,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",81.572113,6.427213,2018,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.223057,5.571825,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+Elephas maximus maximus,80.927698,8.121349,2018,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.678235,6.383218,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.85099,8.046346,2018,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.980383,6.529267,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.2958,5.537193,2018,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.672483,12.002373,2018,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+Elephas maximus maximus,80.963621,8.007753,2018,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.763283,12.063833,2018,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",90.888889,26.627377,2018,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",90.898606,26.643614,2018,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",91.018795,26.656565,2018,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.043191,26.911244,2018,HUMAN_OBSERVATION,29798,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.72201,12.173305,2018,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+Elephas maximus maximus,81.230768,7.435908,2018,HUMAN_OBSERVATION,31317,iNaturalist,GBIF
+Elephas maximus maximus,80.744478,6.389367,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.940542,6.411244,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.511552,6.245171,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.54747,6.200412,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.368228,6.313014,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.386982,6.280081,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.344959,6.28786,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.369362,6.261421,2018,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.559789,21.209089,2018,HUMAN_OBSERVATION,30396,iNaturalist,GBIF
+Elephas maximus maximus,80.817465,6.523302,2018,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.979539,10.270657,2018,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",95.553328,27.251911,2018,HUMAN_OBSERVATION,29751,iNaturalist,GBIF
+Elephas maximus maximus,80.761734,7.952966,2017,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",78.923381,29.540119,2017,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.95522,8.12289,2017,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+Elephas maximus maximus,80.889587,6.472245,2017,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.594149,6.202541,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.371142,5.40775,2017,HUMAN_OBSERVATION,45597,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.692663,9.305338,2017,HUMAN_OBSERVATION,31245,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.816921,9.298224,2017,HUMAN_OBSERVATION,31245,iNaturalist,GBIF
+Elephas maximus maximus,80.982518,7.626794,2017,HUMAN_OBSERVATION,104150,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.873063,7.76684,2017,HUMAN_OBSERVATION,62948,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",106.9,12.27,2017,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",89.421997,26.652293,2017,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.883549,4.875226,2017,HUMAN_OBSERVATION,31394,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.094316,5.585604,2017,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+Elephas maximus maximus,80.926352,6.592032,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",87.188422,26.77007,2017,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.516044,16.788837,2017,HUMAN_OBSERVATION,30795,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.285433,5.550829,2017,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",81.461799,6.219036,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",101.578234,14.207783,2017,HUMAN_OBSERVATION,132084,iNaturalist,GBIF
+Elephas maximus maximus,80.809461,6.573224,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.912047,6.43658,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.335974,6.10884,2017,HUMAN_OBSERVATION,31362,iNaturalist,GBIF
+Elephas maximus maximus,81.512951,6.331297,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.410935,6.375009,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.506867,6.363645,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.324377,5.776305,2017,HUMAN_OBSERVATION,31373,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.232955,5.529667,2017,HUMAN_OBSERVATION,45597,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.753753,12.409869,2017,HUMAN_OBSERVATION,31081,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.053123,10.18606,2017,HUMAN_OBSERVATION,31208,iNaturalist,GBIF
+Elephas maximus maximus,80.601667,7.935543,2017,HUMAN_OBSERVATION,283665,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.608808,12.040161,2017,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.065941,11.671695,2017,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.166995,11.955405,2017,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.315605,5.51307,2017,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.298307,14.331697,2017,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.313515,14.516749,2017,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",87.181042,26.758138,2017,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+Elephas maximus maximus,80.861038,6.493606,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.69241,6.750994,2017,HUMAN_OBSERVATION,152312,iNaturalist,GBIF
+Elephas maximus maximus,81.434169,6.599515,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.464694,6.560496,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.432117,6.427011,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.411668,6.520951,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.802044,6.596462,2017,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",84.359894,27.57646,2017,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.450112,6.373036,2017,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,80.842836,8.055217,2017,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.317589,10.390973,2017,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.690792,26.571341,2017,HUMAN_OBSERVATION,134627,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",92.871326,27.185139,2016,HUMAN_OBSERVATION,29775,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.24,11.36,2016,PRESERVED_SPECIMEN,NA,NA,GBIF
+Elephas maximus maximus,80.841055,8.168164,2016,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.608185,9.226318,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.60466,11.529343,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",98.731356,9.253696,2016,HUMAN_OBSERVATION,31245,iNaturalist,GBIF
+Elephas maximus maximus,81.555972,6.589528,2016,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.539156,6.58897,2016,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.211223,5.497425,2016,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.21,14.23,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,81.872447,6.825193,2016,HUMAN_OBSERVATION,31337,iNaturalist,GBIF
+Elephas maximus maximus,81.544751,6.218095,2016,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",81.400793,6.241138,2016,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.19,14.13,2016,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",101.38621500000001,14.395862,2016,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.349124,14.511471,2016,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.370804,14.49237,2016,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+Elephas maximus maximus,81.611435,6.946707,2016,HUMAN_OBSERVATION,31337,iNaturalist,GBIF
+Elephas maximus maximus,80.953601,6.581623,2016,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.897718,8.127291,2016,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",118.330048,5.443462,2016,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.52581,8.913903,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",98.68953,18.730617,2016,HUMAN_OBSERVATION,30632,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.898841,6.474491,2016,LIVING_SPECIMEN,2000,BGBM,GBIF
+"Elephas maximus Linnaeus, 1758",76.728429,10.102163,2016,HUMAN_OBSERVATION,31208,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.438483,11.443372,2016,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.511974,11.428706,2016,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.671706,11.440475,2016,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",81.572113,6.427213,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",99.443759,12.82045,2016,HUMAN_OBSERVATION,31057,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",80.850319,6.431605,2016,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",98.451374,18.997226,2016,HUMAN_OBSERVATION,30615,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.21166,9.433416,2016,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",101.352728,14.299881,2015,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.207678,14.485779,2015,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",91.556792,26.872926,2015,HUMAN_OBSERVATION,29798,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.501524,11.56398,2015,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.34,14.04,2015,MACHINE_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,80.883901,6.571322,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.26816,9.491562,2015,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.267266,5.564063,2015,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.755442,11.751894,2015,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.294525,26.608788,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",92.853699,26.937222,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.845203,6.51844,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.980993,6.523479,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.824499,6.477339,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.980687,6.537843,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.400063,6.459149,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.842587,6.510854,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.376437,11.718222,2015,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.530714,26.45089,2015,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+Elephas maximus maximus,80.15467,8.540676,2015,HUMAN_OBSERVATION,31279,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.689499,4.965772,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",81.572113,6.427213,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.689499,4.965772,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.38324,5.678296,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",93.006401,26.404906,2015,HUMAN_OBSERVATION,50000,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",84.219967,27.594991,2015,HUMAN_OBSERVATION,29727,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.760861,5.121127,2015,HUMAN_OBSERVATION,31389,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",92.547151,21.485062,2015,HUMAN_OBSERVATION,30377,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.899411,10.219614,2015,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",88.393744,26.66319,2015,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.220059,11.803504,2015,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.305747,9.435701,2015,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.395671,11.969844,2015,HUMAN_OBSERVATION,67597,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.226215,11.953419,2015,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.377471,11.967393,2015,HUMAN_OBSERVATION,31115,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.937375,6.428754,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.572113,6.427213,2015,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.396614,6.26731,2015,HUMAN_OBSERVATION,25,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",75.676279,12.883794,2015,HUMAN_OBSERVATION,31057,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.782672,14.346711,2015,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.722761,4.989672,2015,HUMAN_OBSERVATION,31394,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.267514,15.680126,2015,HUMAN_OBSERVATION,30870,iNaturalist,GBIF
+Elephas maximus maximus,80.907824,6.435517,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.946976,6.501473,2015,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",101.38293,14.368696,2015,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.225925,14.511376,2015,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.990247,10.589886,2015,HUMAN_OBSERVATION,31189,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.989028,29.555406,2014,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2014,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.34,14.07,2014,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.32,14.02,2014,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.33,14.01,2014,MACHINE_OBSERVATION,NA,NA,GBIF
+Elephas maximus maximus,81.203763,6.359178,2014,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.594997,6.454862,2014,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.592979,6.240332,2014,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",90.915657,26.672774,2014,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.50175,26.758859,2014,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.533014,11.611588,2014,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",90.970903,26.645913,2014,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",103.806301,1.949245,2014,HUMAN_OBSERVATION,31442,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.149046,12.061761,2014,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.23331,11.615366,2014,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+Elephas maximus maximus,80.998087,6.422035,2014,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.584458,11.55109,2014,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.564363,11.488487,2014,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",77.104393,10.621106,2014,HUMAN_OBSERVATION,31179,iNaturalist,GBIF
+Elephas maximus maximus,80.851623,8.133125,2014,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.55,11.5833,2014,MATERIAL_SAMPLE,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",76.55,11.5833,2014,PRESERVED_SPECIMEN,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",80.760109,7.95677,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.850319,6.431605,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2014,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",92.80789,26.451906,2014,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.201731,14.477906,2014,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+Elephas maximus maximus,80.96433,6.593042,2014,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.952502,10.308223,2013,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",99.844245,12.100189,2013,HUMAN_OBSERVATION,31104,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.342913,26.741001,2013,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.28,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",80.850319,6.431605,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.850319,6.431605,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.305864,5.584495,2013,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+Elephas maximus maximus,81.597637,6.532782,2013,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",100.904699,22.192984,2013,HUMAN_OBSERVATION,30318,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.011172,29.960711,2013,HUMAN_OBSERVATION,29433,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.329042,26.633317,2013,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",93.397445,26.788255,2013,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.670575,29.509408,2013,HUMAN_OBSERVATION,55497,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.326461,5.479567,2013,HUMAN_OBSERVATION,44184,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.234158,5.456479,2013,HUMAN_OBSERVATION,44184,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.340257,5.48183,2013,HUMAN_OBSERVATION,44184,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.739009,4.887421,2013,HUMAN_OBSERVATION,31394,iNaturalist,GBIF
+Elephas maximus maximus,81.572113,6.427213,2013,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.442463,6.535831,2013,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.181326,26.427472,2013,HUMAN_OBSERVATION,29845,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",84.617197,27.574476,2013,HUMAN_OBSERVATION,29727,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.33,14.01,2013,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",98.368636,19.03437,2012,HUMAN_OBSERVATION,30598,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.479628,11.629679,2012,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.306637,5.563043,2012,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",84.546353,27.573327,2012,HUMAN_OBSERVATION,29727,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.34737,5.49317,2012,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",118.215042,5.485974,2012,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2012,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",81.572113,6.427213,2012,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.579063,11.457605,2012,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+Elephas maximus maximus,81.464066,6.538105,2012,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.989746,6.551328,2012,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.873188,7.980261,2012,HUMAN_OBSERVATION,31302,iNaturalist,GBIF
+Elephas maximus maximus,80.86559,6.442139,2012,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",73.8507,18.531057,2012,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,80.689407,7.065344,2012,HUMAN_OBSERVATION,113915,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.31,14.02,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",105.3,14.01,2012,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",80.926504,6.530326,2012,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.572469,6.555896,2012,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.660374,8.077817,2012,HUMAN_OBSERVATION,31295,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",81.572113,6.427213,2012,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.37488,6.03514,2011,HUMAN_OBSERVATION,31362,iNaturalist,GBIF
+Elephas maximus maximus,80.889774,6.528762,2011,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,80.97721,6.533295,2011,HUMAN_OBSERVATION,31350,iNaturalist,GBIF
+Elephas maximus maximus,81.561332,6.346987,2011,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+Elephas maximus maximus,81.41991,6.393379,2011,HUMAN_OBSERVATION,31356,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.90066,6.46139,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.85867,6.47729,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.90066,6.46139,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.89776,6.45584,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.87194,6.47118,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.89062,6.44023,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.89529,6.45235,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",80.87593,6.47358,2011,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.600507,11.55873,2011,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",93.41781,26.724137,2011,HUMAN_OBSERVATION,29822,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",78.83924,29.478476,2011,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",101.311307,14.493724,2011,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.983006,10.333798,2011,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.230677,5.502521,2011,HUMAN_OBSERVATION,44184,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.372193,9.497973,2011,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.235072,14.546888,2011,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.23452,14.447385,2011,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.372223,14.409078,2011,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",74.325041,14.900268,2010,HUMAN_OBSERVATION,30927,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",91.44302,23.520429,2010,HUMAN_OBSERVATION,30175,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.451363,11.659957,2010,HUMAN_OBSERVATION,34503,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.021749,9.458864,2010,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.372223,14.409078,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",101.569809,16.738304,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",118.100504,5.051707,2010,HUMAN_OBSERVATION,31389,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.562271,11.528057,2010,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.436691,11.485408,2010,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",76.548551,11.603744,2009,HUMAN_OBSERVATION,31126,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.29363,14.418572,2008,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",76.734667,10.212225,2007,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",75.857719,26.917259,2007,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",76.49231,25.996315,2007,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",92.51697,27.11643,2007,HUMAN_OBSERVATION,29775,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.245297,10.34043,2007,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.474141,14.322226,2007,HUMAN_OBSERVATION,30968,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.207922,14.497944,2007,HUMAN_OBSERVATION,30954,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",78.888044,29.528253,2006,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.889587,6.472245,2006,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",80.382675,7.291128,2006,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.43665,11.532748,2005,HUMAN_OBSERVATION,31137,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",80.388333,7.300556,2005,PRESERVED_SPECIMEN,NA,MSB,GBIF
+"Elephas maximus indicus Cuvier, 1798",76.925166,10.269959,2005,HUMAN_OBSERVATION,31199,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",77.342011,9.544919,2004,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",98.677826,18.444113,2004,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.660514,29.55797,2004,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",92.688904,12.882764,2004,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",93.001244,13.258994,2004,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",101.264835,14.490632,2004,HUMAN_OBSERVATION,45979,iNaturalist,GBIF
+"Elephas maximus borneensis Deraniyagala, 1950",117.962824,5.944498,2004,HUMAN_OBSERVATION,31368,iNaturalist,GBIF
+"Elephas maximus indicus Cuvier, 1798",77.159532,9.466107,2003,HUMAN_OBSERVATION,31236,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",101.55702,5.477956,2002,HUMAN_OBSERVATION,31379,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",103.349,11.612,2002,HUMAN_OBSERVATION,NA,Conservation International,GBIF
+"Elephas maximus Linnaeus, 1758",84.33333,27.5,2001,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",84.33333,27.5,2001,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",84.33333,27.5,2001,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.822695,29.40676,2001,HUMAN_OBSERVATION,29483,iNaturalist,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107,12.14,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107,12.14,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",107.1,12.22,2001,MACHINE_OBSERVATION,NA,NA,GBIF
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1996,HUMAN_OBSERVATION,NA,"Borror Laboratory of Bioacoustics, Ohio State University, Columbus, OH (BLB)",GBIF
+"Elephas maximus Linnaeus, 1758",84.47963,27.468269,1996,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1995,HUMAN_OBSERVATION,NA,"Borror Laboratory of Bioacoustics, Ohio State University, Columbus, OH (BLB)",GBIF
+"Elephas maximus Linnaeus, 1758",-122.50232,37.73284,1995,PRESERVED_SPECIMEN,470,CAS,GBIF
+Elephas maximus maximus,80.382675,7.291128,1994,HUMAN_OBSERVATION,250,naturgucker,GBIF
+Elephas maximus maximus,81.572113,6.427213,1994,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",78.828278,29.528658,1994,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",76.49231,25.996315,1994,HUMAN_OBSERVATION,250,naturgucker,GBIF
+"Elephas maximus Linnaeus, 1758",-83.0833,40.1667,1989,HUMAN_OBSERVATION,NA,"Borror Laboratory of Bioacoustics, Ohio State University, Columbus, OH (BLB)",GBIF
+"Elephas maximus Linnaeus, 1758",-122.716041,45.509486,1984,MACHINE_OBSERVATION,NA,CLO,GBIF
+"Elephas maximus Linnaeus, 1758",-87.83617,41.833365,1975,PRESERVED_SPECIMEN,2289,CHAS,GBIF
+"Elephas maximus Linnaeus, 1758",-122.50232,37.73284,1968,PRESERVED_SPECIMEN,470,CAS,GBIF
+"Elephas maximus Linnaeus, 1758",-122.13681,37.75378,1968,PRESERVED_SPECIMEN,1479,CAS,GBIF
+"Elephas maximus Linnaeus, 1758",82.9,21.76667,1964,PRESERVED_SPECIMEN,1892525,CAS,GBIF
+"Elephas maximus indicus Cuvier, 1798",108.41666,11.06044,1958,PRESERVED_SPECIMEN,75150,MSU,GBIF
+"Elephas maximus Linnaeus, 1758",-114.83788861652327,32.8163707981897,1957,PRESERVED_SPECIMEN,323,LACM,GBIF
+"Elephas maximus indicus Cuvier, 1798",118.083328,5.53333,1950,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus Linnaeus, 1758",80.98333,7.83333,1929,PRESERVED_SPECIMEN,226.41,ROM,GBIF
+"Elephas maximus sumatranus Temminck, 1847",99.985603,0.066212,1923,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus sumatranus Temminck, 1847",99.985603,0.066212,1923,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus sumatranus Temminck, 1847",116.4786,-8.6242,1923,PRESERVED_SPECIMEN,3036,MCZ,GBIF
+Elephas maximus maximus,80.98333,7.83333,1907,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus Linnaeus, 1758",101.6333,3.1333,1898,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",95.7,22.5667,1890,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus indicus Cuvier, 1798",4.469936,50.503887,1888,PRESERVED_SPECIMEN,NA,Ugent,GBIF
+"Elephas maximus indicus Cuvier, 1798",4.469936,50.503887,1888,PRESERVED_SPECIMEN,NA,Ugent,GBIF
+"Elephas maximus indicus Cuvier, 1798",4.469936,50.503887,1888,PRESERVED_SPECIMEN,NA,Ugent,GBIF
+"Elephas maximus Linnaeus, 1758",81.1167,8.7167,1882,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.582817,29.69997,1865,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus sumatranus Temminck, 1847",100.35,-0.95,1864,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",75.815918,12.373746,1861,PRESERVED_SPECIMEN,60957,MCZ,GBIF
+"Elephas maximus Linnaeus, 1758",77.7,28.9833,1833,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",92.3,24.5,1820,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Elephas maximus Linnaeus, 1758",92.3,24.5,1820,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Elephas maximus Linnaeus, 1758",92.3,24.5,1820,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+Elephas maximus maximus,2.360297,48.8454,1783,PRESERVED_SPECIMEN,NA,BOUM,GBIF
+"Elephas maximus Linnaeus, 1758",75.815918,12.373746,1700,PRESERVED_SPECIMEN,60957,MCZ,GBIF
+"Elephas maximus Linnaeus, 1758",38,8,1700,PRESERVED_SPECIMEN,301,MCZ,GBIF
+"Elephas maximus Linnaeus, 1758",-71.253667,42.329264,1700,PRESERVED_SPECIMEN,3036,MCZ,GBIF
+"Elephas maximus Linnaeus, 1758",75.815918,12.373746,1700,PRESERVED_SPECIMEN,60957,MCZ,GBIF
+"Elephas maximus Linnaeus, 1758",18.617,4.383,NA,PRESERVED_SPECIMEN,NA,MNHN,GBIF
+"Elephas maximus Linnaeus, 1758",14.716667,36.916667,NA,FOSSIL_SPECIMEN,NA,MfN,GBIF
+"Elephas maximus Linnaeus, 1758",14.716667,36.916667,NA,FOSSIL_SPECIMEN,NA,MfN,GBIF
+"Elephas maximus Linnaeus, 1758",14.716667,36.916667,NA,FOSSIL_SPECIMEN,NA,MfN,GBIF
+"Elephas maximus Linnaeus, 1758",14.716667,36.916667,NA,FOSSIL_SPECIMEN,NA,MfN,GBIF
+"Elephas maximus Linnaeus, 1758",100.516667,13.75,NA,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Elephas maximus Linnaeus, 1758",100.516667,13.75,NA,PRESERVED_SPECIMEN,NA,RBINS,GBIF
+"Elephas maximus Linnaeus, 1758",76.916664,30.733334,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Elephas maximus indicus Cuvier, 1798",120.407219,23.048889,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Elephas maximus Linnaeus, 1758",111.029167,-8.137222,NA,FOSSIL_SPECIMEN,NA,PBDB,GBIF
+"Elephas maximus sumatranus Temminck, 1847",115.3667,5.3833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus sumatranus Temminck, 1847",115.3667,5.3833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",75,14,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",81.5833,28,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",77.3667,9.5833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",76.65,12.3,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",98.9833,18.7833,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",97,25.75,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",101.8333,2.75,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",76.5,10.5,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",81.0833,28.4333,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+"Elephas maximus Linnaeus, 1758",78.15,29.9667,NA,PRESERVED_SPECIMEN,NA,NHMUK,GBIF
+BOLD:AAF0248,76.24,11.36,NA,MATERIAL_SAMPLE,NA,NA,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.116669,17.633329,NA,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus indicus Cuvier, 1798",78.116669,17.633329,NA,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus indicus Cuvier, 1798",82.900002,21.76667,NA,PRESERVED_SPECIMEN,NA,FMNH,GBIF
+"Elephas maximus Linnaeus, 1758",92.3,24.5,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Elephas maximus Linnaeus, 1758",92.3,24.5,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF
+"Elephas maximus Linnaeus, 1758",80.71,7.25,NA,PRESERVED_SPECIMEN,NA,MHNG,GBIF

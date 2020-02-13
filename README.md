@@ -1,9 +1,15 @@
 # SDMs validation via COMADRE database
 
+## Code pipeline
+  1. get_species.R
+  2. get_occurrences.R
+  3. clean_occurrences.R
+  4. grin_records.R (this eats a lot of memory; do not parallelize with < 16 Gb RAM)
+
 ## Occurrence data
 We removed from the COMADRE dataset all mammal populations that had: 1) NA values in the MPM; 2) MPMs that were not ergodic, a necessary condition to obtained the asymptotic growth rate $lambda$; and 3) population that did not have geo-references locations. As we performed the analyses at the species level, we removed sub-species taxonomic classifications. In total, we had 116 populations of 76 species.
 
-We then gathered occurrence locations from several open-access databases (...) using the R package spocc (REF). In total, we obtained 74,330 occurrence records.
+We then gathered occurrence locations from several open-access databases (...) using the R package spocc (REF). We then removed spurious data points using R package CoordinateCleaner and thinned the remaining occurence records to have a separation distance of at least 10 km. In total, we identified # species with at least 30 occurrence locations for modelling.
 
 Table: Number of occurrence records (n) per species, obtained from multiple databases using R package spocc.
 |Species                     |    n|
