@@ -98,13 +98,32 @@ res %>%
   filter(n >= 30) %>% 
   knitr::kable()
 
+species <- res %>% 
+  group_by(species) %>% 
+  tally() %>% 
+  arrange(n) %>% 
+  filter(n >= 30) %>% 
+  pull(species)
+
+mass <- read_csv("https://raw.githubusercontent.com/MegaPast2Future/PHYLACINE_1.2/master/Data/Traits/Trait_data.csv") %>% 
+  mutate(Species = gsub("_", " ", Binomial.1.2)) %>% 
+  filter(Species %in% species) %>% 
+  dplyr::select(Species, Mass.g)
+
 # thin again all species together
-res <- res %>% 
-  dplyr::select(-species) %>% 
-  as.data.frame()
+# res <- res %>% 
+#   dplyr::select(-species) %>% 
+#   as.data.frame()
+# 
+# thinned <- thin.algorithm(res, thin.par = 5, reps = 1)[[1]]
 
-thinned <- thin.algorithm(res, thin.par = 5, reps = 1)[[1]]
-
-plot(res$Longitude, res$Latitude, pch = 20, cex = 0.01)
-
-write_csv(res, 'grinned_all_ecuador_mammals.csv')
+r_tmp[!is.na(r_tmp)] <- 1
+pdf("Figures/occ_map.pdf", width = 8, height = 3.5)
+par(mar = c(0, 0, 0, 0))
+plot(r_tmp, col = "gray80",
+     frame = FALSE, legend = FALSE,
+     box = FALSE, axes = FALSE)
+points(res$Longitude, res$Latitude, 
+       pch = 21, cex = 0.01,
+       col = rgb(0.2, 0.2, 0.6, 0.1))
+dev.off()
