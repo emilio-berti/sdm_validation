@@ -28,12 +28,14 @@ comadre %>%
   tally() %>% 
   filter(n >= 3)
 
-# 84 species 
+# 80 species 
 comadre %>% 
-  filter(Class == "Mammalia") %>%
+  filter(Class == "Mammalia",
+         MatrixCaptivity == "W") %>%
   as_tibble() %>% 
   pull(SpeciesAccepted) %>% 
-  unique()
+  unique() %>% 
+  sort()
 
 # 36 species with more >= 3 data points at different year
 comadre %>% 
@@ -49,7 +51,8 @@ comadre %>%
 # get species to work with, in this case all mammals with valid entries: ergodic
 # matrices without NAs and geolocalized populations
 species <- comadre %>% 
-  filter(Class == "Mammalia") %>%
+  filter(Class == "Mammalia",
+         MatrixCaptivity == "W") %>%
   as_tibble() %>% 
   pull(SpeciesAccepted) %>% 
   unique() %>% 

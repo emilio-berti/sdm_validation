@@ -57,7 +57,7 @@ sp <- unique(d$species) %>%
 # ncores <- detectCores() - 5
 # registerDoParallel(ncores)
 foreach(taxon = sp, 
-        .combine = 'rbind') %do% {
+        .combine = "rbind") %do% {
           # prepare for thinning
           occ <- d %>% 
             filter(species == taxon) %>% 
@@ -78,27 +78,25 @@ foreach(taxon = sp,
                                 return(empt)
                               })
           # write to file
-          write_csv(grinned, paste0('Data_grinned/', taxon, '.csv'))
+          write_csv(grinned, paste0("Data_grinned/", taxon, ".csv"))
         }
 #stopImplicitCluster()
 
-
-
-
-
-
-completed <- list.files('Data', pattern = 'csv', full.names = TRUE)
+completed <- list.files("Data_grinned", pattern = "csv", full.names = TRUE)
 res <- list()
 for (file in completed){
-  res[[which(completed == file)]] <- read_csv(file, col_types = cols()) %>% 
-    mutate(species = gsub('[.]csv', '', str_split(file, '/', simplify = TRUE)[[2]]),
-           coordinate_uncertainty = as.numeric(coordinate_uncertainty))
+  res[[which(completed == file)]] <- read_csv(file, col_types = cols())
 }
+res <- bind_rows(res)
 
-bind_rows(res) %>% 
-  write_csv("records.csv")
+write_csv(res, "grinned_cleaned_records.csv")
 
-write_csv(res, 'grinned_cleaned_records.csv')
+res %>% 
+  group_by(species) %>% 
+  tally() %>% 
+  arrange(n) %>% 
+  filter(n >= 30) %>% 
+  knitr::kable()
 
 # thin again all species together
 res <- res %>% 
